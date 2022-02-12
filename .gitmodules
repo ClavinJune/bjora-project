@@ -1,3 +1,6 @@
 [submodule "terraform"]
 	path = terraform
 	url = git@github.com:ClavinJune/bjora-project-terraform.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:ClavinJune/bjora-project-golang.git
