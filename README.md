@@ -19,5 +19,5 @@ This github repository is created as a learning media how to create web apps usi
 ## Clone Project
 
 ```shell
-git clone --recurse-submodules https://github.com/ClavinJune/bjora-project.git
+$ git clone --recurse-submodules https://github.com/ClavinJune/bjora-project.git
 ```
