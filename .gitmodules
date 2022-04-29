@@ -4,6 +4,3 @@
 [submodule "backend"]
 	path = backend
 	url = git@github.com:ClavinJune/bjora-project-golang.git
-[submodule "tf-modules"]
-	path = tf-modules
-	url = git@github.com:ClavinJune/bjora-project-terraform-modules
